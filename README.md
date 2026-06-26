@@ -27,7 +27,7 @@
 
 ---
 
-### 🌸 About Me
+### About Me
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" /> 🎓 Currently pursuing BTech @ **Galgotias University** | Diploma Holder  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" /> 💻 Passionate **Android & Full Stack Developer**  
