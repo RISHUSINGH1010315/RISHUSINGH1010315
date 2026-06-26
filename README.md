@@ -25,6 +25,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/normal-badge/?username=RISHUSINGH1010315&color=00adb5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 ---
 
 ### About Me
@@ -35,6 +39,16 @@
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20" /> 🚀 Aspiring **Future Tech Entrepreneur**  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" /> 💬 Ask me about: **Kotlin, Java, Android Studio, React, Node.js, and System Design**  
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20" /> ⚡ Fun fact: *I debug faster when listening to synthwave beats 🎵*
+
+---
+
+### 🌟 Featured Project
+
+<p align="center">
+  <a href="https://github.com/RISHUSINGH1010315/AI_stockmind_Licsense_management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RISHUSINGH1010315&repo=AI_stockmind_Licsense_management_System&theme=tokyonight&bg_color=0f172a&title_color=00adb5&text_color=ffffff&icon_color=00adb5" alt="StockMind Project Card" />
+  </a>
+</p>
 
 ---
 
@@ -71,6 +85,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHUSINGH1010315&bg_color=0f172a&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Rishu's GitHub Activity Graph" width="100%" />
+</p>
 
 ---
 
