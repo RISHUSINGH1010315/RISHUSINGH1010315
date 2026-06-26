@@ -1,10 +1,14 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi+there!+%E2%9A%A1;I'm+Rishu+Singh;Android+%26+Full-Stack+Developer;Creator+of+StockMind+%F0%9F%93%8A;Future+Tech+Entrepreneur+%F0%9F%9A%80" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/RISHUSINGH1010315">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rishu%20Singh&subtitle=Android%20%26%20Full-Stack%20Developer&fontSize=50&fontColor=ffffff&subFontSize=20&animation=fadeIn" alt="Header Banner" />
   </a>
-</h1>
+</p>
 
-<h3 align="center">Android & Full-Stack Developer | Crafting Intelligent Systems & Scalable Solutions</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=BTech+@+Galgotias+University;Creator+of+StockMind;Future+Tech+Entrepreneur" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishu-singh-4837a9217/" target="_blank">
